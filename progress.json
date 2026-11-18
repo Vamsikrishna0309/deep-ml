@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T23:29:26.753Z",
+  "generated_at": "2026-11-19T23:29:28.837Z",
   "items": {
     "problem:882": {
       "kind": "problem",
@@ -89,6 +89,32 @@
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-11-16T01:56:21.118Z",
       "last_pushed_at": "2026-11-16T01:56:21.118Z"
+    },
+    "problem:880": {
+      "kind": "problem",
+      "id": "880",
+      "title": "Create a Float Tensor from a Python List",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/880",
+      "path": "problems/0880-create-a-float-tensor-from-a-python-list",
+      "first_solved_at": "2026-11-18T03:53:55.734Z",
+      "last_pushed_at": "2026-11-18T03:53:55.734Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:881": {
+      "kind": "problem",
+      "id": "881",
+      "title": "Reshape and Transpose a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/881",
+      "path": "problems/0881-reshape-and-transpose-a-tensor",
+      "first_solved_at": "2026-11-18T04:02:11.991Z",
+      "last_pushed_at": "2026-11-18T04:02:11.991Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
