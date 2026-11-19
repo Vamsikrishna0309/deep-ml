@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T05:06:20.440Z",
+  "generated_at": "2026-11-19T20:08:00.233Z",
   "items": {
     "problem:882": {
       "kind": "problem",
@@ -26,6 +26,19 @@
       "last_pushed_at": "2026-11-18T05:06:19.914Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:885": {
+      "kind": "problem",
+      "id": "885",
+      "title": "Build a Linear Regression Model with nn.Module",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/885",
+      "path": "problems/0885-build-a-linear-regression-model-with-nn-module",
+      "first_solved_at": "2026-11-19T20:07:59.433Z",
+      "last_pushed_at": "2026-11-19T20:07:59.433Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
