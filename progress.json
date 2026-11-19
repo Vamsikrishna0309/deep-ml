@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T23:29:28.837Z",
+  "generated_at": "2026-11-19T23:29:30.686Z",
   "items": {
     "problem:882": {
       "kind": "problem",
@@ -88,7 +88,7 @@
       "url": "https://www.deep-ml.com/math-problems/1",
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-11-16T01:56:21.118Z",
-      "last_pushed_at": "2026-11-16T01:56:21.118Z"
+      "last_pushed_at": "2026-11-19T23:29:30.684Z"
     },
     "problem:880": {
       "kind": "problem",
